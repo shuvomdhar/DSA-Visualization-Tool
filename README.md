@@ -75,7 +75,13 @@ Note: `tkinter` usually comes pre-installed with Python. If you encounter issues
 
 ### Installation Steps
 1. Clone or download the repository
+    ```bash
+    git clone https://github.com/shuvomdhar/DSA-Visualization-Tool.git
+    ```
 2. Install the required dependencies
+    ```bash
+    pip install matplotlib numpy
+    ```
 3. Run the application:
    ```bash
    python main.py
